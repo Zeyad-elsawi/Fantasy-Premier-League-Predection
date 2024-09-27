@@ -1,0 +1,1 @@
+This is an Ai modele which uses the players statistics in the FPL from 2023 seoson and tries to predict the stats each player will get in the second half of the season(test data),the model uses linear regression.
